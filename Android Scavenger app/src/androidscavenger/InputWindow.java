@@ -1,35 +1,13 @@
 package androidscavenger;
 
-/*****************************************************************
- Author: Michal Switala
- Date: 2018/10/16
- Version:   3
- References: 
-
- https://www.youtube.com/watch?v=FLkOX4Eez6o 
- - shows how to create window in Java using the simpliest way
- 
- https://www.youtube.com/watch?v=5KyYAsYvLjs&list=PLS1QulWo1RIa
- UGP446_pWLgTZPiFizEMq&index=3
- 
- https://www.youtube.com/watch?v=rT-J-0nGyzU&t=507s
- 
- https://docs.oracle.com/javase/tutorial/uiswing/examples/
- components/TopLevelDemoProject/src/components/TopLevelDemo.java
- - How to create window with menu and yellow backgorund
- 
- https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#GlassPaneDemo
- - Here you can find all java examples explaining everything with download
- 
- https://docs.oracle.com/javase/8/javafx/layout-tutorial/style_css.htm#JFXLY161
- - styling Layout Panes with CSS
- 
- https://docs.oracle.com/javase/tutorial/uiswing/misc/keybinding.html
- - How to use Actions, for ex. how to create new actions when you hit a key on keyboard
- 
- https://docs.oracle.com/javase/tutorial/uiswing/misc/keybinding.html
- - How to use key bindings on your keyboard to do something, for example how to bind key ENTER and set an action for it
- ****************************************************************/
+/*
+* Android Scavenger is an application where you can search through inventory which contains randomly generated 400 
+* new line of droids which were created by taking parts from old droid. This application is using very complex algorithm.
+*
+* @author Michal Switala
+* Copyright © 2021 belongs solely to Michal Switala. 
+* You can reach me out on : https://github.com/michaelPro89
+*/
 
 import javax.swing.JFrame;
 import java.awt.*;
